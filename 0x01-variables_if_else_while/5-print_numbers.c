@@ -2,7 +2,7 @@
 /**
  * main - prints digits
  * no arguments
- * Description: prints all singles 
+ * Description: prints all singles
  * digits of base ten
  * folowed by new line
  * Return: zero
