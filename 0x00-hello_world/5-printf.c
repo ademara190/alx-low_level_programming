@@ -2,10 +2,10 @@
 /**
  * main - function prints strings using printf
  * function has no arguments
- * Description : This function initailizes a string
+ * Description: This function initailizes a string
  * which contains the string to be printed
  * it then prints it using printf
- * Return : returns zero
+ * Return: zero
  */
 int main(void)
 {
