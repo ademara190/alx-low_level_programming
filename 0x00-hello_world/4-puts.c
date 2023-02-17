@@ -3,7 +3,7 @@
  * main - prints a string using puts
  * Does not require any argument
  * Description : This is a longer description
- * A string of len hundred is declared 
+ * A string of len hundred is declared
  * the string contains the required string to be printed and
  * it is printed using puts
  * Return: zero
