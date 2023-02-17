@@ -1,12 +1,10 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-
 /**
  * main - prints the last digit of a random number
  * no arguments
  * Description: prints the last digit of a ranndom number
- * and compares it to five
  * Return: zero
  */
 int main(void)
@@ -16,7 +14,7 @@ int main(void)
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
-	last_digit = n%10;
+	last_digit = n % 10;
 
 	if (last_digit > 5)
 	{
