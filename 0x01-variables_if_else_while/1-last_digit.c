@@ -4,7 +4,8 @@
 /**
  * main - prints the last digit of a random number
  * no arguments
- * Description: prints the last digit of a ranndom number
+ * Description: prints the last digit
+ * of a ranndom number
  * Return: zero
  */
 int main(void)
