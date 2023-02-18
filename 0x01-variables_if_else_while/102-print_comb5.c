@@ -21,12 +21,10 @@ int main(void)
 		num1 = (c1 / 10 + '0');
 		num2 = (c1 % 10 + '0');
 		c2 = 0;
-		
 		while (c2 <= 99)
 		{
 			num3 = (c2 / 10 + '0');
 			num4 = (c2 % 10 + '0');
-
 			if (c1 < c2)
 			{
 				putchar(num1);
@@ -34,7 +32,6 @@ int main(void)
 				putchar(' ');
 				putchar(num3);
 				putchar(num4);
-
 				if (c1 != 98)
 				{
 					putchar(',');
@@ -47,5 +44,4 @@ int main(void)
 	}
 	putchar('\n');
 	return (0);
-
 }
